@@ -35,7 +35,7 @@ A Coffee Shop app built with Kotlin, with some Java, and Firebase, focused on UI
 #### 2. Clone the Repo
 
 ```
-$ git clone https://github.com/HaroonBsf/Coffee-Shop
+$ git clone https://github.com/prachi10089/Coffee-Shop
 $ cd Coffee-Shop/
 ```
 
@@ -85,36 +85,3 @@ $ cd Coffee-Shop/
 
 #### 6. Final Step
   - Build and run the app on your Android device or emulator.
-
-## Questions?🤔
-
-💬 Hit me up at
-
-<a href="https://www.linkedin.com/in/haroonbsf/"><img src="https://user-images.githubusercontent.com/35039342/55471530-94b34280-5627-11e9-8c0e-6fe86a8406d6.png" width="60"></a>
-- Or, open an issue on this repository!
-
-## License
-
-```
-MIT License
-
-Copyright (c) 2024 Haroon Majeed
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
